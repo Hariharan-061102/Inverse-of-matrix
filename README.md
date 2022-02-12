@@ -3,12 +3,21 @@
 ## AIM:
 
 ## ALGORITHM:
-### Step 1:
-### Step 2:
-### Step 3:
-### Step 4:
-### Step 5:
 
+### Step 1:
+Start python program
+
+### Step 2:
+Import numpy and create two empty lists.
+
+### Step 3:
+Get the parameters and the elements from the user using for loops.
+
+### Step 4:
+Inverse the matrix using linalg library.
+
+### Step 5:
+Get the output.
 
 ## PROGRAM:
 ~~~
@@ -32,3 +41,4 @@ print(B)
 ## OUTPUT:
 ![output](inv.png)
 ## RESULT:
+A python program to find inverse a matrix has been executed successfully.
